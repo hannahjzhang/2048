@@ -1,4 +1,4 @@
-# 2048-Starter
+# 2048
 
 Dependencies:
 	
@@ -12,12 +12,17 @@ Dependencies:
 		python3 -m pip install getch
 		python3 -m pip install termcolor
 
-Based on: https://play2048.co/
-
-
 Using the code:
 	
 	To run: 	python3 starter_2048.py
 	
-	To test: 	python3 autograder.py 		
+	To test: 	python3 autograder.py 
 
+Based on: https://play2048.co/ <br>
+Acknolwedgements: http://nifty.stanford.edu/2017/mishra-2048/
+
+Tester
+```
+Box??
+Interesting
+```
