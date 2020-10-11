@@ -12,13 +12,12 @@ Dependencies:
 		python3 -m pip install getch
 		python3 -m pip install termcolor
 
-Structure of Repo: Bare starter files included. Check other GitHub repo for staff solution.
-
-2048 Spec: https://goo.gl/34kNbl
+Based on: https://play2048.co/
 
 
 Using the code:
 	
 	To run: 	python3 starter_2048.py
 	
-	To test: 	python3 autograder.py 					
+	To test: 	python3 autograder.py 		
+
