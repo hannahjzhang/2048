@@ -18,6 +18,7 @@ To play:
 ```
 Use the arrow keys to move blocks around.
 Try to combine the blocks to get 2048.
+```
 
 Based on: https://play2048.co/ <br>
 Acknolwedgements: http://nifty.stanford.edu/2017/mishra-2048/
