@@ -1,6 +1,24 @@
-# 2048
-The classic 2048 game. <br>
-Use arrow keys to move and combine blocks. <br>
-Try to get to the 2048 block. <br>
-Based on: https://play2048.co/. <br>
-Note: does not seem to work with newer versions of Python.
+# 2048-Starter
+
+Dependencies:
+	
+	Necessary: Python3
+	
+	Optional (but important): Getch, Termcolor, Tkinter
+
+	Download Python3 from here: https://www.python.org/downloads/
+	
+	Use these commands to install the optional but important dependencies:
+		python3 -m pip install getch
+		python3 -m pip install termcolor
+
+Structure of Repo: Bare starter files included. Check other GitHub repo for staff solution.
+
+2048 Spec: https://goo.gl/34kNbl
+
+
+Using the code:
+	
+	To run: 	python3 starter_2048.py
+	
+	To test: 	python3 autograder.py 					
